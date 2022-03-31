@@ -7,7 +7,9 @@ Here is the CheatSheet for Time Complexity
 ![image](https://user-images.githubusercontent.com/64683009/161087749-c71236b3-dc5c-420e-a33e-421e19a262ca.png)
 
 ![image](https://user-images.githubusercontent.com/64683009/161087613-ea873861-84ff-4ce1-a2e8-dead80e94fc5.png)
-[PDF CheatSheet](https://youtu.be/uvTcd-VlM64)
+
+
+[ : PDF CheatSheet](https://github.com/riti2409/Time_complexity_cheatsheet/files/7943558/Complexity_Cheatsheet.pdf)
 
 
 
